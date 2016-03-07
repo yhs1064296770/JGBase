@@ -13,7 +13,7 @@
 @end
 @implementation AppDelegate
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-// 初始化方法
+// 初始化方法123   
     [self initializeWithApplication:application];
     
     return YES;
